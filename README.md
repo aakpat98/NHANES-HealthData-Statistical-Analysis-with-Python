@@ -2,7 +2,7 @@ This project involves a comprehensive analysis of the National Health and Nutrit
 
 I have used various Python packages from NumPy, Pandas, Matplotlib, Statsmodel, and Seaborn to get accurate results and visualize the findings in the best way possible. The statistics methodologies are evident from the file names. These include concepts of Univariate and Multivariate Analysis, Sample Modelling, Obtaining Confidence Intervals, Hypothesis Testing, Linear and Logistic Regression, and Multilevel and Marginal Modeling.
 
-The Jupyter Notebooks are segregated by each statistics topic used to see different variables. Although, they are independent and study separate trends, the ideal order to go through these would be: 
+The Jupyter Notebooks are segregated by each statistics topic used to evaluate different variables. Although, they are independent and study separate trends, the ideal order to go through these would be: 
 
 1. Univariate_Multivariate_Analysis
 2. Confidence Intervals
