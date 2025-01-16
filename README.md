@@ -1,4 +1,4 @@
-# NHANES Health Data Statistical Analysis with Python
+# CDC-NHANES Health Data Statistical Analysis with Python
 
 This project conducts a comprehensive statistical analysis of the National Health and Nutrition Examination Survey (NHANES) data from the 2015-2016 cycle. The analysis focuses on variables such as smoking rates, blood pressure, and body mass index (BMI) across demographic factors like age, gender, and education level to identify patterns and correlations within the dataset.
 
